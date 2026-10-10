@@ -3,7 +3,7 @@ Spot it.snap it.Fixed.
 
 ##Live Prototype
 [Open RoadRakshak
-Website](https://aishuchawan506-0ss.github.io/RoadRakshak/)
+Website](https://aishuchawan506-oss.github.io/RoadRakshak/)
 
 ##Project Presentation
 [view Project PPT](./
